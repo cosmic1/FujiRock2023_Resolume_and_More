@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SimpleSetup advancedModeEnabled="0">
+	<Outputs>
+		<OutputDeviceDisplay name="Display 2" deviceId="\Registry\Machine\System\CurrentControlSet\Control\Video\{BB7DFEA0-2775-11EE-9428-806E6F6E6963}\0001" idHash="11933705068251350589" fullscreen="1" width="1920" height="1080"/>
+	</Outputs>
+</SimpleSetup>
+
