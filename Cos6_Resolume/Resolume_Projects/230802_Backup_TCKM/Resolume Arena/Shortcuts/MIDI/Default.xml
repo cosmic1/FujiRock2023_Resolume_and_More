@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MidiShortcutPreset name="Default" presetId="-1580178881">
+	<versionInfo name="Resolume Arena" majorVersion="7" minorVersion="16" microVersion="0" revision="25503"/>
+	<ShortcutManager name="MIDIShortcutManagerShortcuts">
+		<Shortcut name="Shortcut" uniqueId="1690354997012" paramNodeName="ParamRange" behaviour="8" inputDeviceName="Launch Control XL" outputDeviceName="Launch Control XL">
+			<ShortcutPath name="InputPath" path="/composition/layers/3/video/opacity" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/3/video/opacity" translationType="1" allowedTranslationTypes="11"/>
+			<Subtarget type="5" optionIndex="-1"/>
+			<RawInputMessage key="197509099187883960" value="0" numSteps="128"/>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1690354997008" paramNodeName="ParamRange" behaviour="8" inputDeviceName="Launch Control XL" outputDeviceName="Launch Control XL">
+			<ShortcutPath name="InputPath" path="/composition/layers/1/video/opacity" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/1/video/opacity" translationType="1" allowedTranslationTypes="11"/>
+			<Subtarget type="5" optionIndex="-1"/>
+			<RawInputMessage key="197509099187883448" value="0" numSteps="128"/>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1690354997010" paramNodeName="ParamRange" behaviour="8" inputDeviceName="Launch Control XL" outputDeviceName="Launch Control XL">
+			<ShortcutPath name="InputPath" path="/composition/layers/2/video/opacity" translationType="1" allowedTranslationTypes="11"/>
+			<ShortcutPath name="OutputPath" path="/composition/layers/2/video/opacity" translationType="1" allowedTranslationTypes="11"/>
+			<Subtarget type="5" optionIndex="-1"/>
+			<RawInputMessage key="197509099187883704" value="0" numSteps="128"/>
+		</Shortcut>
+	</ShortcutManager>
+</MidiShortcutPreset>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeyboardShortcutPreset name="FUJI2" presetId="-1580178882">
+	<versionInfo name="Resolume Arena" majorVersion="7" minorVersion="16" microVersion="0" revision="25503"/>
+	<ShortcutManager name="KeyboardShortcutManagerShortcuts">
+		<Shortcut name="Shortcut" uniqueId="1690614836531" paramNodeName="ParamEvent" behaviour="1024">
+			<ShortcutPath name="InputPath" path="/composition/connectprevcolumn" translationType="1" allowedTranslationTypes="1"/>
+			<RawInputMessage key="281633890500608" value="0"/>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1690274825787" paramNodeName="ParamRange" behaviour="1024">
+			<ShortcutPath name="InputPath" path="/composition/selectedclip/transport/position/behaviour/speed" translationType="4" allowedTranslationTypes="7"/>
+			<Subtarget type="5" optionIndex="-1"/>
+			<ValueRange min="0.25" max="0.26476519163389244937"/>
+			<RawInputMessage key="373662154752" value="0"/>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1690274825787" paramNodeName="ParamRange" behaviour="3072">
+			<ShortcutPath name="InputPath" path="/composition/selectedclip/transport/position/behaviour/speed" translationType="4" allowedTranslationTypes="7"/>
+			<Subtarget type="5" optionIndex="-1"/>
+			<ValueRange min="0.23463416740305645392" max="0.25"/>
+			<RawInputMessage key="347892350976" value="0"/>
+		</Shortcut>
+		<Shortcut name="Shortcut" uniqueId="1690614836530" paramNodeName="ParamEvent" behaviour="1024">
+			<ShortcutPath name="InputPath" path="/composition/connectnextcolumn" translationType="1" allowedTranslationTypes="1"/>
+			<RawInputMessage key="281642480435200" value="0"/>
+		</Shortcut>
+	</ShortcutManager>
+</KeyboardShortcutPreset>
+
